@@ -1,0 +1,1 @@
+C:\Users\smittal\source\repos\MyMathBuddy\MyMathBuddy\MyMathBuddy.UWP\MyMathBuddy.UWP.csproj;x86
